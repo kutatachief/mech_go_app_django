@@ -1,0 +1,2 @@
+# mech_go_app_django
+My solo project on mechanic app that allow users to request for mechanic and also other car parts and other more
